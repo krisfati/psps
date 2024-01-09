@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div id="lala">
+    <h1 id="aa"> yuns akbar 7mar</h1>
+    <fieldset id="oo" >
+        <lenged id="ff"> <b>mini test</b> </lenged><br>
+      <p id="mimi">ila chi nhar 3sbtk chnu ghader :</p>   
+<label for="hmar"> ghatblokini</label>
+<input type="radio" name="fati" id="hmar">
+<label for="klb"> ghatsqsdni w tslkhni</label>
+<input type="radio" name="fati" id="klb">
+<input type="button" value="brk hna" onclick="alert('hhhhh mnytk katkhtar ghi dhkt meak ylh duz puv')" id="mama">
+
+    </fieldset>
+</div>
+<style>
+#aa{ 
+text-align: center;
+font-family: serif ;
+text-decoration-color: black;
+
+}
+#mama{border-bottom-right-radius: 33px aqua solid ;
+    font-family: serif ;
+}
+body{
+    background-position: center ;
+    background-color: beige ;
+}
+#oo{
+    border-radius: 50px
+}
+#lala{
+    display: block ;
+}
+#mimi{ font-family:  monospace;
+}
+
+</style>
+
+
+</body>
+</html>
